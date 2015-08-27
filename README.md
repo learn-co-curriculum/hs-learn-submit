@@ -1,5 +1,5 @@
 ## We Want Green!
-<img src="https://s3.amazonaws.com/after-school-assets/green_light.gif" width="300" align="right" hspace="10">
+<img src="https://s3.amazonaws.com/after-school-assets/traffic_light.giff" width="300" align="right" hspace="10">
 
 Have you noticed the lights on the right hand side of Learn? We're sure you have! There are a few ways to make those lights turn green, and mark that lesson or lab as complete.
 
