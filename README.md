@@ -30,3 +30,4 @@ learn submit --team vicfriedman, lresner
 ```
 
 The code will also appear on Danny's GitHub, as well as Victoria's and Lyel's. Victoria and Lyel will also get green lights on Learn!
+<a href='https://learn.co/lessons/hs-learn-submit' data-visibility='hidden'>View this lesson on Learn.co</a>
